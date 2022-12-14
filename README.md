@@ -11,7 +11,7 @@ Find me on &nbsp;<a href="https://www.linkedin.com/in/danielbraaksma/">
 ## About Me
 
 - 👀 I’m interested in building awesome projects that do new and exciting things for people
-- 🌱 I’m currently learning: &nbsp; ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- 🌱 I’m currently learning: &nbsp; ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - 💞️ I’m looking to build my skills as a FullStack Developer
 - 📫 How to reach me: danebraaksma@gmail.com
 

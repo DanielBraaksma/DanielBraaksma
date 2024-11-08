@@ -11,8 +11,6 @@ Find me on &nbsp;<a href="https://www.linkedin.com/in/danielbraaksma/">
 ## About Me
 
 - 👀 I’m interested in building awesome projects that do new and exciting things for people
-- 🌱 I’m currently learning more about backend development
-- 💞️ I’m looking to build my skills as a FullStack Developer
 - 📫 How to reach me: danebraaksma@gmail.com
 
 <br>
